@@ -1,0 +1,68 @@
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\ApplicationInsights.config
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\roslyn\csc.exe
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\roslyn\System.Collections.Immutable.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\roslyn\vbc.exe
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\roslyn\VBCSCompiler.exe
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\roslyn\VBCSCompiler.exe.config
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\BlogWebSite.dll.config
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\BlogWebSite.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\BlogWebSite.pdb
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.Web.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.WindowsServer.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.ApplicationInsights.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.Web.xml
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.WindowsServer.xml
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.ApplicationInsights.xml
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\obj\Debug\BlogWebSite.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\obj\Debug\BlogWebSite.pdb
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\bin\AjaxControlToolkit.dll
+c:\users\acar\documents\visual studio 2015\Projects\20170518_ProjeBlog\BlogWebSite\obj\Debug\BlogWebSite.csprojResolveAssemblyReference.cache
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\ApplicationInsights.config
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\roslyn\csc.exe
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\roslyn\vbc.exe
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\BlogWebSite.dll.config
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\BlogWebSite.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\BlogWebSite.pdb
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\AjaxControlToolkit.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.Web.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.Web.xml
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\obj\Debug\BlogWebSite.csprojResolveAssemblyReference.cache
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\obj\Debug\BlogWebSite.dll
+C:\Users\Acar\Desktop\Ödevler Nyub\aspBlogProje\20170518_ProjeBlog\BlogWebSite\obj\Debug\BlogWebSite.pdb

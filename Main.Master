@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="BlogWebSite.Main" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="style.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+            <div id="menu">
+                <ul>
+                    <li class="current_page_item"><a href="../Default.aspx">Home</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Photos</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Links</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+            <!-- end #menu -->
+            <div id="header">
+                <div id="logo">
+                    <h1><a href="#">Green Forest   </a></h1>
+                    <p>design by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a></p>
+                </div>
+            </div>
+            <!-- end #header -->
+            <div id="page">
+                <div id="page-bgtop">
+                    <div id="page-bgbtm">
+                     
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            </asp:ContentPlaceHolder>
+                    
+                        <div style="clear: both;">&nbsp;</div>
+                    </div>
+                </div>
+            </div>
+            <!-- end #page -->
+        </div>
+        <div id="footer">
+            <p>Copyright (c) 2008 Sitename.com. All rights reserved. Design by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>.</p>
+        </div>
+
+    </form>
+</body>
+</html>
